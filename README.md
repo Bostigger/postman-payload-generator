@@ -1,6 +1,6 @@
 # API Payload Generator for Postman
 
-A web application that generates Postman-ready JSON payloads from your Sequelize models and Express routes using OpenAI's GPT-3.5 model.
+A web application that generates Postman-ready JSON payloads from your Sequelize models and Express routes using OpenAI's GPT model.
 
 ![App Screenshot](screenshot.png)
 
